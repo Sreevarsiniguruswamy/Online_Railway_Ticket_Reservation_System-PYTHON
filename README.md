@@ -1,10 +1,8 @@
 # Online Railway Ticket Booking System 
----
 
 A Python-based project that simulates an **online railway ticket booking system**, enabling users to easily book train tickets, check train schedules, and manage reservations.
 
 ## Features
----
 
 - User-friendly interface for booking and managing train tickets.
 - Search functionality to view train schedules and availability.
@@ -13,12 +11,10 @@ A Python-based project that simulates an **online railway ticket booking system*
 - Admin features for managing train details, schedules, and bookings.
 
 ## Technologies Used
----
 
 - **Programming Language**: Python
 
 ## Usage
----
 
 - Launch the application.
 - Register or log in as a user.
